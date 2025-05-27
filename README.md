@@ -1,4 +1,4 @@
-![CI](https://github.com/<username>/hello-ci/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/naufaldahafizh/hello-ci/actions/workflows/ci.yml/badge.svg)
 
 # hello-ci
 
